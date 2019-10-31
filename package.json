@@ -2,7 +2,7 @@
   "name": "challenge-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vongmaianh170196.github.io/Markdown-previewer-FCC",
+  "homepage": "http://vongmaianh170196.github.io/Markdown-previewer-FCC/public/index.html",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
